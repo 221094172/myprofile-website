@@ -1,0 +1,24 @@
+h1{
+color: white;
+font-family: Georgia;
+}
+body{
+color: white;
+background: #003366;
+}
+
+.borderImg {
+border: 1px solid white;
+
+}
+ol li {
+color: solid white;
+font-family: Helvetica;
+
+}
+tr td a {
+color: white;
+ }
+ p a {
+ color: white;
+ }
